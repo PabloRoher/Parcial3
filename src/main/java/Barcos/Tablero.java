@@ -1,4 +1,4 @@
-package org.example;
+package Barcos;
 
 public class Tablero {
     private int filas;

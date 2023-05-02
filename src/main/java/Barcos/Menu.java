@@ -1,4 +1,4 @@
-package org.example;
+package Barcos;
 
 import java.awt.*;
 import java.util.ArrayList;
@@ -148,11 +148,6 @@ public class Menu {
                     System.out.println("Orientación no válida");
             }
         }
-    }
-
-    public static void main(String[] args) {
-        Menu menu = new Menu();
-        menu.jugar();
     }
 }
 

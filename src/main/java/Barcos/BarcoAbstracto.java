@@ -1,4 +1,4 @@
-package org.example;
+package Barcos;
 
 import java.awt.*;
 
@@ -51,6 +51,5 @@ public abstract class BarcoAbstracto implements Barco{
     public abstract boolean isSunk();
     @Override
     public abstract void addHit();
-
 
 }

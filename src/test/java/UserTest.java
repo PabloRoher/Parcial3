@@ -1,4 +1,7 @@
-import org.example.*;
+import Barcos.Battleship;
+import Barcos.CardinalPoints;
+import Barcos.Frigate;
+import Barcos.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
